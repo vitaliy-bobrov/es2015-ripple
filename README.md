@@ -1,7 +1,7 @@
 ES2015 Ripple
 ==============
 
-[![Bower version](https://badge.fury.io/bo/webp-support.svg)](https://badge.fury.io/bo/webp-support)
+[![Bower version](https://badge.fury.io/bo/es2015-ripple.svg)](https://badge.fury.io/bo/es2015-ripple)
 [![devDependency Status](https://david-dm.org/vitaliy-bobrov/es2015-ripple/dev-status.svg)](https://david-dm.org/vitaliy-bobrov/es2015-ripple#info=devDependencies)
 
 A pure javascript (no polymer, no jQuery) lightweight library that adds a Google Material Design ripple effect to elements.
